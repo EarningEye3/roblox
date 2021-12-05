@@ -10,7 +10,6 @@ pcall(function()
        game.StarterGui:SetCore("SendNotification", {
         Title = 'SCRIPT MODIFIED BY';
         Text = 'VVS#9143 cuz he is a baddie';
-        player.PromptOpenURL("https://locations.quest/5R2R2B")
         Duration = 20;
        })
        setclipboard('nigger')

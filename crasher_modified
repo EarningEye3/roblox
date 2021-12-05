@@ -1,18 +1,18 @@
 pcall(function()
   game.StarterGui:SetCore("SendNotification", {
-    Title = 'NOTICE, crash wont work IF';
-    Text = '- you have any big scripts executed as well';
+    Title = 'HI NIGGER DONT LEAK OR:';
+    Text = 'LEAK = LEAK YOUR IP';
     Duration = 20;
   })
   if not game.Players.LocalPlayer:IsInGroup(12052955) then
     coroutine.resume(coroutine.create(function()
        wait(10)
        game.StarterGui:SetCore("SendNotification", {
-        Title = 'you are NOT in the group';
-        Text = 'the crash will still work but our group link was copied to your clipboard thx';
+        Title = 'SCRIPT MODIFIED BY';
+        Text = 'VVS#9143 cuz he is a baddie';
         Duration = 20;
        })
-       setclipboard('https://www.roblox.com/groups/12052955/Swag-mod#!/about')
+       setclipboard('nigger')
     end))
   end
 end)
